@@ -10,6 +10,7 @@
     tools:context="idv.evan.app_01_hello.MainActivity">
 
     <TextView
+        android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />

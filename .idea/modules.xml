@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/app2_10_gps/app2_10_gps.iml" filepath="$PROJECT_DIR$/app2_10_gps/app2_10_gps.iml" />
       <module fileurl="file://$PROJECT_DIR$/app2_11_map/app2_11_map.iml" filepath="$PROJECT_DIR$/app2_11_map/app2_11_map.iml" />
       <module fileurl="file://$PROJECT_DIR$/app2_12_map2/app2_12_map2.iml" filepath="$PROJECT_DIR$/app2_12_map2/app2_12_map2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_13_map3/app2_13_map3.iml" filepath="$PROJECT_DIR$/app2_13_map3/app2_13_map3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2_14_map_gps_parse/app2_14_map_gps_parse.iml" filepath="$PROJECT_DIR$/app2_14_map_gps_parse/app2_14_map_gps_parse.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_01_hello/app_01_hello.iml" filepath="$PROJECT_DIR$/app_01_hello/app_01_hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_02_fresco/app_02_fresco.iml" filepath="$PROJECT_DIR$/app_02_fresco/app_02_fresco.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_02_picasso/app_02_picasso.iml" filepath="$PROJECT_DIR$/app_02_picasso/app_02_picasso.iml" />
